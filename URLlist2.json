@@ -1,0 +1,9 @@
+[
+    "http://10.10.224.221",
+    "http://10.10.224.221/user/login",
+    "http://10.10.224.221/staff-directory",
+    "http://10.10.224.221/software/carl",
+    "http://10.10.224.221/departments",
+    "http://10.10.224.221/departments/learning",
+    "http://10.10.224.221/user/login?destination=/continuing-ed"
+]

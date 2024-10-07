@@ -1,0 +1,16 @@
+ 1033  16/08/24 11:44:48 emacs lhmultiple.js &
+ 1034  16/08/24 11:47:35 chmod +x lhmultiple.js
+ 1035  16/08/24 11:48:41 . ./lhmultiple.js
+ 1036  16/08/24 11:49:01 ./lhmultiple.js
+ 1051  16/08/24 14:12:37 ./lhmultiple.js
+ 1053  16/08/24 14:32:38 ./lhmultiple.js
+ 1054  16/08/24 14:36:08 chmod +x lhm2.js 
+ 1055  16/08/24 14:36:28 ./lhm2.js 
+ 1061  17/08/24 13:07:39 history | grep lhmul
+ 1062  17/08/24 13:07:46 ./lhmultiple.js
+ 1063  17/08/24 13:09:50 history | grep lhm
+ 1064  17/08/24 13:09:56 ./lhm2.js 
+ 1069  17/08/24 13:37:11 ./lhm2.js 
+ 1071  19/08/24 12:00:22 ./lhm2.js 
+ 1076  07/10/24 08:14:51 history | grep lhm
+ 1077  07/10/24 08:15:04 history | grep lhm > lhm.hist

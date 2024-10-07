@@ -1,7 +1,7 @@
 # lighthousemult
 # Commands to run the lighthouse performance tool for multiple pages. Needs node.js
 # Setup Node.js on Ubuntu 22.04
-#https://linuxize.com/post/how-to-install-node-js-on-ubuntu-22-04/
+# https://linuxize.com/post/how-to-install-node-js-on-ubuntu-22-04/
 # Setup Node.js on WSL2
 # https://learn.microsoft.com/en-us/windows/dev-environment/javascript/nodejs-on-wsl
 # Setup Node.js on Windows
